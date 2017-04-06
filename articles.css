@@ -1,0 +1,100 @@
+.wrapper {
+  width: 90%;
+  margin: 0 auto;
+}
+/*BACKGROUND COLORS, FONT-FAMILY, COLOR, PADDING, BORDER*/
+.first {
+  background-color: pink;
+  font-family: "Arial", sans-serif;
+  color: DarkCyan;
+  padding: 1%;
+  border: 5px DarkCyan solid;
+  border-radius: 5px;
+  margin-bottom: 2%;
+}
+
+.second {
+  background-color: orange;
+  font-family: "Georgia", serif;
+  color: white;
+  padding: 3%;
+  border: 5px black solid;
+  border-radius: 20px;
+  margin-bottom: 2%;
+}
+
+.third {
+  background-color: lightblue;
+  font-family: "Verdana", sans-serif;
+  color: black;
+  padding: 7%;
+  border: 5px purple solid;
+  border-radius: 50px;
+  margin-bottom: 2%;
+}
+
+.fourth {
+  background-color: lavender;
+  font-family: "Courier New", Courier, monospace;
+  color: navy;
+  padding: 10%;
+  border: 5px navy solid;
+  border-radius: 200px;
+  margin-bottom: 2%;
+}
+
+.fifth {
+  background-color: DarkCyan;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  color: lavender;
+  padding: 20%;
+  border: 5px blue solid;
+  border-radius: 400px;
+}
+
+/*FONT-SIZES OF HEADINGS AND SECTIONS, LINE HEIGHT*/
+
+.article-heading-1 {
+  font-size: .8em;
+}
+
+.section-1 {
+  font-size: .8em;
+  line-height: .95em;
+}
+
+.article-heading-2 {
+  font-size: 1em;
+}
+
+.section-2 {
+  font-size: 1em;
+  line-height: 1em;
+}
+
+.article-heading-3 {
+  font-size: 1.2em;
+}
+
+.section-3 {
+  font-size: 1.2em;
+  line-height: 1.2em;
+}
+
+.article-heading-4 {
+  font-size: 1.5em
+}
+
+.section-4 {
+  font-size: 1.5em;
+  line-height: 1.5em;
+}
+
+.article-heading-5 {
+  font-size: 2em;
+}
+
+.section-5 {
+  font-size: 2em;
+  line-height: 1.7em;
+}
